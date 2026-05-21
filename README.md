@@ -1,12 +1,10 @@
-## 1º) Instalação
-
-* Instalando as dependências do projeto
+## Installing dependencies
 
 ```go
     go mod tidy
 ```
 
-## 2º) Comando para iniciar o arquivo go.mod
+## Starting app
 
 ```go
     go mod init nome-do-seu-projeto
